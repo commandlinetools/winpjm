@@ -1,6 +1,12 @@
+.idea
+*.iml
+log
+*.log
+target
+*.ipr
+*.iws
+classes/artifacts
 *~
-build/*
-dist/*
-ivy/*
-reports/*
-tmp/*
+*.idea/*
+\#*#
+
