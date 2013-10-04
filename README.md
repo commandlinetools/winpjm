@@ -15,8 +15,10 @@ project web page: http://winpjm.commandlinetools.org/
    See the License for the specific language governing permissions and
    limitations under the License.
 
-WinPJM - Windows Project Management Commands
+WinPJM - Windows Project Management Tool
 ---
+
+Commands:
 
 * lspj - list projects
 * chpj - switch to a project
