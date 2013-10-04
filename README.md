@@ -1,7 +1,7 @@
 project web page: http://winpjm.commandlinetools.org/
 
 
-   (c) Copyright 2011 Michael A. Wright.  All Rights Reserved.
+   (c) Copyright 2011-2013 Michael A. Wright.  All Rights Reserved.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -15,6 +15,15 @@ project web page: http://winpjm.commandlinetools.org/
    See the License for the specific language governing permissions and
    limitations under the License.
 
+WinPJM - Windows Project Management Tool
+---
+
+Commands:
+
+* lspj - list projects
+* chpj - switch to a project
+* shpj - show details for the current project
+* cdpj - change to the current project's base directory
 
 
 
